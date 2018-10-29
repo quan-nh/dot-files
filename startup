@@ -4,6 +4,6 @@
 xrandr --output eDP-1 --primary --mode 1440x900
 
 # tap click
-xinput set-prop 11 282 1
+xinput set-prop bcm5974 282 1
 # natural scrool
-xinput set-prop 11 290 1
+xinput set-prop bcm5974 290 1
