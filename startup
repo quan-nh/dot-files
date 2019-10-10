@@ -1,9 +1,0 @@
-#!/bin/sh
-
-# monitor
-xrandr --output eDP-1 --primary --mode 1440x900
-
-# tap click
-xinput set-prop bcm5974 282 1
-# natural scrool
-xinput set-prop bcm5974 290 1
