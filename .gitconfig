@@ -1,0 +1,10 @@
+[alias]
+    st = status --short -uno
+    cm = commit
+    ca = commit --amend
+    br = branch
+    co = checkout
+    df = diff
+    lgg = log -p --pretty=fuller --abbrev-commit
+    lg = log --all --decorate --oneline --graph
+    up = pull --rebase
