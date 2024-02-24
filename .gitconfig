@@ -1,5 +1,5 @@
 [alias]
-    st = status --short -uno
+    st = status --short
     cm = commit
     ca = commit --amend
     br = branch
@@ -8,3 +8,7 @@
     lgg = log -p --pretty=fuller --abbrev-commit
     lg = log --all --decorate --oneline --graph
     up = pull --rebase
+
+[user]
+    email = huu2uan@gmail.com
+    name = q

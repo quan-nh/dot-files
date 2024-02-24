@@ -1,0 +1,11 @@
+{
+	"font_face": "monaco",
+	"font_size": 12,
+	"color_scheme": "auto",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"dark_color_scheme": "Monokai.sublime-color-scheme",
+	"save_on_focus_lost": true,
+	// vim mode
+	"vintage_start_in_command_mode": true,
+	"ignored_packages": [],
+}
