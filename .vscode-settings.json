@@ -1,0 +1,7 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Default Light Modern",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Monaco",
+    "files.autoSave": "onFocusChange"
+}
