@@ -99,3 +99,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
 alias j13="export JAVA_HOME=`/usr/libexec/java_home -v 13`; java -version"
+alias ip="dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com"
+alias localip="ipconfig getifaddr en0"
