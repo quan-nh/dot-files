@@ -12,3 +12,6 @@
 [user]
     email = huu2uan@gmail.com
     name = q
+
+[push]
+    autoSetupRemote = true
