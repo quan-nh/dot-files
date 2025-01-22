@@ -1,0 +1,29 @@
+{
+  "languages": {
+    "Java": {
+      "format_on_save": "off"
+    },
+    "Odin": {
+      "show_inline_completions": false
+    }
+  },
+  "features": {
+    "inline_completion_provider": "supermaven"
+  },
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 13,
+  "buffer_line_height": {
+    "custom": 1.8
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Alabaster",
+    "dark": "Gruvbox Dark"
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "vim_mode": true,
+  "autosave": "on_focus_change"
+}
