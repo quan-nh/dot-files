@@ -8,6 +8,7 @@
     lgg = log -p --pretty=fuller --abbrev-commit
     lg = log --all --decorate --oneline --graph
     up = pull --rebase
+    wt = worktree
 
 [user]
     email = huu2uan@gmail.com
