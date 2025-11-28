@@ -1,10 +1,9 @@
 {
-  "workbench.startupEditor": "none",
   "editor.fontSize": 13,
   "editor.fontFamily": "JetBrains Mono",
   "editor.lineHeight": 1.618,
   "files.autoSave": "onFocusChange",
-  "redhat.telemetry.enabled": false,
-  "editor.minimap.enabled": false,
-  "workbench.colorTheme": "Alabaster"
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Alabaster",
+  "workbench.preferredDarkColorTheme": "Rubber"
 }
